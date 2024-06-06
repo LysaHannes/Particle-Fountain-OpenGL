@@ -1,0 +1,15 @@
+I noticed that on my laptop it runs at a normal speed, but on my pc it runs slow. I dont know why.
+
+things I didnt do:
+- speed toggle
+- random spin
+- rotate scene on x, y, z, mouse
+
+
+Options I did:
+- spray toggle mode
+- particles have different colors toggle
+- particles have different size toggle
+- square hole in ground which particles fall through (toggle it, defult not there)
+- new effect - slow motion
+- new effect - toggle number of particles (lots, meduim, a little)
